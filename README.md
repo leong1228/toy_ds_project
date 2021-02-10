@@ -2,3 +2,4 @@
 DSCI100
 project creation date: 10, Feb, 2021
 added creation date: 10 Feb 2021
+author: Leo Ng
